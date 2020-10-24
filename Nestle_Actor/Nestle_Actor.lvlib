@@ -7,6 +7,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="INIT Msg.lvclass" Type="LVClass" URL="../../Nestle_Actor Messages/INIT Msg/INIT Msg.lvclass"/>
 		<Item Name="Obtain list values Msg.lvclass" Type="LVClass" URL="../../Nestle_Actor Messages/Obtain list values Msg/Obtain list values Msg.lvclass"/>
+		<Item Name="Update_inventario Msg.lvclass" Type="LVClass" URL="../../Nestle_Actor Messages/Update_inventario Msg/Update_inventario Msg.lvclass"/>
 	</Item>
 	<Item Name="Nestle_Actor.lvclass" Type="LVClass" URL="../Nestle_Actor.lvclass"/>
 </Library>
