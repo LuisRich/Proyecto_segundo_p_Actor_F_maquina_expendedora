@@ -22,6 +22,7 @@
 		<Item Name="Launcher.vi" Type="VI" URL="../UI Actor/Launcher.vi"/>
 		<Item Name="UI Actor.lvlib" Type="Library" URL="../UI Actor/UI Actor.lvlib"/>
 		<Item Name="Mensajes.lvlib" Type="Library" URL="../Mensajes/Mensajes.lvlib"/>
+		<Item Name="Funcionamiento_listbox.vi" Type="VI" URL="../Soda_Actor/Funcionamiento_listbox.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
