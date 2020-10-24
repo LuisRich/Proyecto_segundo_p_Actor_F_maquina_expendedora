@@ -7,6 +7,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Cash Msg.lvclass" Type="LVClass" URL="../../Actor_USD Messages/Cash Msg/Cash Msg.lvclass"/>
 		<Item Name="INIT Msg.lvclass" Type="LVClass" URL="../../Actor_USD Messages/INIT Msg/INIT Msg.lvclass"/>
+		<Item Name="New Credit Msg.lvclass" Type="LVClass" URL="../../Actor_USD Messages/New Credit Msg/New Credit Msg.lvclass"/>
 	</Item>
 	<Item Name="Actor_USD.lvclass" Type="LVClass" URL="../Actor_USD.lvclass"/>
 </Library>
