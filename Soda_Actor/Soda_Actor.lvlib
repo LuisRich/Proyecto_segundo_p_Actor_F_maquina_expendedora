@@ -6,6 +6,7 @@
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="INIT Msg.lvclass" Type="LVClass" URL="../../Soda_Actor Messages/INIT Msg/INIT Msg.lvclass"/>
+		<Item Name="Obtain list values Msg.lvclass" Type="LVClass" URL="../../Soda_Actor Messages/Obtain list values Msg/Obtain list values Msg.lvclass"/>
 	</Item>
 	<Item Name="Soda_Actor.lvclass" Type="LVClass" URL="../Soda_Actor.lvclass"/>
 </Library>
